@@ -1,5 +1,5 @@
 SNS
-[본계정](https://www.instagram.com/1_3_lsm/) [디오라마작업기](https://www.instagram.com/rtree_diorama/)
+ [본계정](https://www.instagram.com/1_3_lsm/) [디오라마작업기](https://www.instagram.com/rtree_diorama/)
 
 Hi there 👋
 반갑습니다! 교통 동호인 친구 겸 취미로 프로그래밍하는 학생 이승민입니다!
