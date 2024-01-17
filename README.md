@@ -8,8 +8,6 @@
 <br>
 <div align="center">  
 <br>
-## OBJECTIVE
-Reseach on deep learning
 
 </div>
 </div>
